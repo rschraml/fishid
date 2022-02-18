@@ -5,6 +5,6 @@ This repository will hold the IRIS image dataset captured within the AquaExcel T
 
 
  
-All data will be published in the next days (06/07/20).
+All data will be published soon - please contact me if you need the database (rudi.schraml@gmail.com)
 
 
